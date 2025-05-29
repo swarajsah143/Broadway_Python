@@ -1,0 +1,2 @@
+Name: swaraj, Age: 33, Address: trip, Phone: 987
+Name: sanu, Age: 458, Address: kot, Phone: 9783
